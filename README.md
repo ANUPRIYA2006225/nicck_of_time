@@ -1,7 +1,7 @@
 # nicck_of_time
 
 # Demo
-[Drive Link (Presentation,Demo,APK)](https://youtu.be/slfq3XdERSw)
+[Demo Link (Presentation,Demo,APK)](https://youtu.be/slfq3XdERSw)
 
 [Frontend - live link](https://chic-gecko-f6544c.netlify.app/)
 
